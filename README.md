@@ -25,13 +25,13 @@ E em seguida
 
 ## Exemplos de imagens geradas com nosso programa:
 ### Exemplo 1:
-<img src="./Projeto.png />
+<img src="./Projeto.png" />
 Input para gerar a imagem: "Projeto"
 
 ### Exemplo 2:
-<img src="./iconomonster.png />
+<img src="./iconomonster.png" />
 Input para gerar a imagem: "iconomonster"
 
 ### Exemplo 3:
-<img src="./UC_cg_rv.png />
+<img src="./UC_cg_rv.png" />
 Input para gerar a imagem: "UC_cg_rv"
