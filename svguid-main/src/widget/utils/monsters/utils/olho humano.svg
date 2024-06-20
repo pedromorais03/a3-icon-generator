@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Olhos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 973 952.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path id="Olho_Humano" data-name="Olho Humano" class="cls-1" d="M628.71,475.34s-64.23,64.59-143.47,64.59-143.47-64.59-143.47-64.59c0,0,64.23-64.59,143.47-64.59s143.47,64.59,143.47,64.59ZM485.24,410.75c-35.67,0-64.59,28.92-64.59,64.59s28.92,64.59,64.59,64.59,64.59-28.92,64.59-64.59-28.92-64.59-64.59-64.59Z"/>
+</svg>

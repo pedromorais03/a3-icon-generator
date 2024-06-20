@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Corpo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 973 952.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <polygon id="Decágono" class="cls-1" points="582.58 160.34 387.89 160.34 230.39 280.66 170.24 475.34 230.39 670.02 387.89 790.34 582.58 790.34 740.08 670.02 800.24 475.34 740.08 280.66 582.58 160.34"/>
+</svg>
