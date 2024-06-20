@@ -24,3 +24,4 @@ E em seguida
 
 
 ## Exemplos de imagens geradas com nosso programa:
+<img src="./Projeto.png />
